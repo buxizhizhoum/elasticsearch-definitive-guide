@@ -1,7 +1,7 @@
 [[distrib-read]]
 === 取回一个文档
 
-可以从主分片或者从其它任意副本分片检索检索文档 ((("documents", "retrieving")))，如下图所示 <<img-distrib-read>>.
+可以从主分片或者从其它任意副本分片检索文档 ((("documents", "retrieving")))，如下图所示 <<img-distrib-read>>.
 
 [[img-distrib-read]]
 .取回单个文档
